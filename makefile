@@ -1,4 +1,3 @@
-# 定义变量
 AS = as
 LD = ld
 OBJCOPY = objcopy
