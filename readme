@@ -1,0 +1,3 @@
+The goal of this repository is to provide an example for linking two pieces of data to the same address simultaneously. A typical scenario is where both pieces of data need to be considered as independent data starting at address 0, but each piece contains pointers to the other.
+
+The main goal of this test is to build independently compressed data for each GBAFE banim.
